@@ -6,6 +6,7 @@ import 'initNote.dart';
 import 'lineDivider.dart';
 import 'Note.dart';
 
+
 void main() {
   runApp(MyApp());
 }
