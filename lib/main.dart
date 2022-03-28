@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:piano_game/line.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'line.dart';
-import 'tile.dart';
 import 'initNote.dart';
 import 'lineDivider.dart';
 import 'Note.dart';
