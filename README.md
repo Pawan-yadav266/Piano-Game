@@ -1,16 +1,15 @@
 # piano_game
 
-A new Flutter project.
+Tiles Game(Flutter) :- 
+ - Tiles come from top and go till end using Animation.
+ - If user miss any tile then user have to restart the game.
+ - On pressing tiles a sound is produced accordingly.
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/102517154/184328008-63bee586-9426-4a04-b1a3-53ebf527b392.jpg" width=260 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/102517154/184328016-61d7c7ee-5923-4967-9617-470a947e6146.jpg" width=260 height=480></td>
+  </tr>
+ </table>
